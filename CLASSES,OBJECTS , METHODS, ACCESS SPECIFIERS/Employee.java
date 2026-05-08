@@ -19,7 +19,7 @@ public class Employee {
 
     double net_salary;
 
-    // Methods to set Employee salary
+    // Methods to set Employee details    
     void setData(int emp_id, String emp_name, double basic_salary, String department) {
         this.emp_id = emp_id;
         this.emp_name = emp_name;
